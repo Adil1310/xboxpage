@@ -285,3 +285,73 @@ button{
     top: 20%;
     left: 15%;
 }
+
+.block-end-1{
+    border-bottom: 2px solid #2E2E2E;
+}
+.end-one-txt-gr{
+    font-weight: 600;
+    font-size: 23px;
+    color: #777777;
+    margin-top: -2%;
+}
+.end-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.end-one-txt{
+    font-weight: 600;
+    font-size: 23px;
+    color: #FFFFFF;
+}
+.arrow-up{
+    width: 20px;
+    height: 10px;
+}
+.bb{
+    border-bottom: 2px solid #2E2E2E;
+}
+.ffb{
+    color: #A0A0A0;
+}
+
+
+
+footer{
+    margin-top: 15%;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer-menu{
+    width: 50%;
+    margin-left: -10%;
+}
+.footer-icons{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-logotype{
+    width: 15%;
+    height: 44px;
+}
+
+.privacy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.privacy-txt{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: -0.03em;
+    color: #777777;
+}
