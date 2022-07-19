@@ -163,12 +163,125 @@ button{
 }
 .bc-bg-img3{
     width: 950px;
-    height: 480px;
+    height: 650px;
     background-image: url(../img/image3.png);
     background-size: cover;
     background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
     margin-top: 2%;
 }
 .mt{
     margin-top: 10%;
+}
+
+
+.tal{
+    text-align: start;
+}
+.tals{
+    text-align: center;
+}
+.hfs{
+    font-size: 52px;
+}
+.bc2-container {
+    width: 90%;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: start;
+}
+.grid1{
+    position: relative;
+    width: 392px;
+    height: 140px;
+    left: 65%;
+}
+.bc-bg-img4{
+    width: 520px;
+    height: 550px;
+    background-image: url(../img/image4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    margin-top: 2%;
+}
+.bc-bg-img5{
+    position: relative;
+    left: 55.5%;
+    top: -400px;
+    width: 435px;
+    height: 550px;
+    background-image: url(../img/image5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    margin-top: 2%;
+}
+.bc-bg-img6{
+    position: relative;
+    top: -570px;
+    width: 520px;
+    height: 550px;
+    background-image: url(../img/image6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    margin-top: 2%;
+}
+.bc-bg-img7{
+    position: relative;
+    left: 55.5%;
+    top: -975px;
+    width: 435px;
+    height: 550px;
+    background-image: url(../img/image7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    margin-top: 2%;
+}
+
+
+.bc3-container {
+    width: 90%;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: start;
+    margin-top: -40%;
+}
+.grid2{
+    position: relative;
+    width: 392px;
+    height: 140px;
+}
+.bc-bg-img8{
+    width: 950px;
+    height: 900px;  
+    background-image: url(../img/image8.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    margin-top: -15%;
+}
+.bc-bg-img9{
+    width: 950px;
+    height: 900px;  
+    background-image: url(../img/image9.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+}
+.label{
+    position: relative;
+    top: 20%;
+    left: 15%;
 }
